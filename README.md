@@ -180,12 +180,10 @@ CREATE TABLE IF NOT EXISTS sales (
 
 ---
 
-## 📸 Visual Preview (placeholder)
+## 📸 Visual Preview
 
-> **[Screenshot Placeholder – see `reports/dashboard_preview.png` for the actual image]**
->
-> (cited from internal build step [6])
-
+![Sales Dashboard Preview](reports/visualizations/dashboard_preview.png)
+![Sales Dashboard Preview](reports/visualizations/dashboard_preview_2.png)
 ---
 
 ## 📂 Capture Dashboard Screenshot (automation)
