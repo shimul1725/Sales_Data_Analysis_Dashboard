@@ -207,15 +207,6 @@ The script is idempotent – if the dashboard is already running it will reuse t
 
 Run the unit tests to ensure data‑quality checks and analytic functions behave as expected:
 ```bash
-pytest
-```
 
----
-
-## 📋 License & Contributions
-
-This project is open‑source under the MIT License. Contributions, issues, and feature requests are welcome – feel free to fork the repo, create a branch, and submit a Pull Request.
-
----
 
 *Happy analysing!*
